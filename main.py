@@ -23,7 +23,7 @@ NUM_CLASSES = {
 # formatted for PyTorch ImageFolder
 # Instructions for how to do this can be found at:
 # https://github.com/facebook/fb.resnet.torch/blob/master/INSTALL.md#download-the-imagenet-dataset
-IMAGENET_PATH = ""
+IMAGENET_PATH = "data/ILSVRC2012_img_val_for_ImageFolder"
 if IMAGENET_PATH == "":
     raise ValueError("Please fill out the path to ImageNet")
 

@@ -104,3 +104,5 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+/data/ILSVRC2012_img_val/
+/data/ILSVRC2012_img_val_for_ImageFolder/
